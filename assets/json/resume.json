@@ -1,24 +1,21 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Shyam Patel",
+    "label": "Master's Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "shyam.y.patel@gmail.com",
+    "phone": "(551) 263-4747",
+    "url": "https://sshyam7896.github.io/",
+    "summary": "Dedicated graduate student with a foundation in bioinformatics and data science, characterized by a deep commitment to advancing scientific understanding through data analytics, machine learning, and innovative software solutions. Aiming to leverage technical skills, project management skills, leadership skills, and a keen analytical mindset to contribute effectively to projects and research initiatives in diverse professional settings.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Jersey City",
       "countryCode": "US",
-      "region": "California"
+      "region": "New Jersey"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/shyamypatel/"
       }
     ]
   },
